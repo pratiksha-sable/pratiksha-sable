@@ -19,10 +19,13 @@
 
 **Languages and Tools:**
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+</p>
+
 
  
