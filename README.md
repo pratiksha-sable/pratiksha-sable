@@ -2,7 +2,9 @@
 
 **●**🎓 Final-year BSc-IT student 
 
-**●**💼 React.js Intern at The Entrepreneurship Network  
+**●**💼 React.js Intern at The Entrepreneurship Network 
+
+**●**✨📊 Currently learning Data Analytics 
 
 **●**👯 I’m looking to collaborate on Web Development projects
 
