@@ -1,10 +1,8 @@
 **Hi 👋, I'm Pratiksha Sable**
 
-**●**🎓 Final-year BSc-IT student 
+**●**🎓 BSc-IT Graduate student 
 
-**●**💼 React.js Intern at The Entrepreneurship Network 
-
-**●**✨📊 Currently learning Data Analytics 
+**●**✨📊 Currently learning Python Fullstack Data Science with AI 
 
 **●**👯 I’m looking to collaborate on Web Development projects
 
