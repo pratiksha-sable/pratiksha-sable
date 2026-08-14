@@ -6,7 +6,7 @@
 
 **●**👯 I’m looking to collaborate on Web Development projects
 
-**●**💬 Ask me about HTML, CSS, JavaScript, React.js, and Python
+**●**💬 Ask me about HTML, CSS, JavaScript, Python, and SQL
 
 **●**😄 Pronouns: Partu
 
